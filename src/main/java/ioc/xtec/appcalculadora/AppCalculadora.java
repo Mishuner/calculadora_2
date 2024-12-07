@@ -8,7 +8,7 @@ import java.util.Scanner;
  */
 public class AppCalculadora {
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws IllegalArgumentException{
         Calculadora c = new Calculadora();
 
       @SuppressWarnings("resource")
