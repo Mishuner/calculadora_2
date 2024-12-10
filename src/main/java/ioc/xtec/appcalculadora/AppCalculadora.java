@@ -15,6 +15,7 @@ public class AppCalculadora {
       Scanner scanner = new Scanner(System.in);
 
       System.out.print("Introdueix el primer número: ");
+      System.out.print("Sóc un buscaraons!!: ");
       double num1 = scanner.nextDouble();
       System.out.print("Introdueix el segon número: ");
       double num2 = scanner.nextDouble();
